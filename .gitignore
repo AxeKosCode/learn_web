@@ -6,5 +6,6 @@ virt/
 virtual/
 
 config.py
-*.log
 *.db
+*.log
+
